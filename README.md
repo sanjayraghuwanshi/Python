@@ -1,4 +1,4 @@
-# 🐍 8-Week Python Mastery Plan
+# 🐍 8-Week Python Practice Plan
 ### Focus: Lists · Dictionaries · File Handling · OOP · Projects
 **Time commitment:** ~1 hour/day | **Start:** Day 1 (your Day 1)
 
