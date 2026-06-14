@@ -1,0 +1,18 @@
+--- Content from fruits.txt --- 
+--- Content from grains.txt --- 
+--- Content from veggies.txt --- 
+Apple 
+Banana 
+Grain1 
+Grain2 
+Grain3 
+Grain4 
+Grain5 
+Kiwi 
+Orange 
+Veg1 
+Veg2 
+Veg3 
+Veg4 
+Veg5 
+Watermelon 
