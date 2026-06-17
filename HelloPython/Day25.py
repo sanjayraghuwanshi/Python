@@ -12,7 +12,7 @@ Concepts: json.dump(), json.load(), reading/writing JSON, nested structures
 import json
 from pprint import pprint
 
-library = {
+library: dict[str, dict[str, str | int | bool]] = {
     "book1": {
         "title": "To Kill a Mockingbird",
         "author": "Harper Lee",

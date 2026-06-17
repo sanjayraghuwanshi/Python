@@ -1,0 +1,38 @@
+{
+    "book1": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "available": true
+    },
+    "book2": {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "available": false
+    },
+    "book3": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "available": true
+    },
+    "book4": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "available": true
+    },
+    "book5": {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "available": false
+    },
+    "book6": {
+        "author": "J.R.R. Tolkien",
+        "available": true,
+        "title": "The Hobbit",
+        "year": 1937
+    }
+}

@@ -1,0 +1,5 @@
+2026-06-17 22:40:17 - root - ERROR - Failed to read 'log.json' : [Errno 2] No such file or directory: 'log.json'
+2026-06-17 22:40:33 - root - ERROR - Failed to read 'log.json' : [Errno 2] No such file or directory: 'log.json'
+2026-06-17 22:41:20 - root - ERROR - Failed to read 'log.json' : [Errno 2] No such file or directory: 'log.json'
+2026-06-17 22:41:20 - root - ERROR - You do not have permission to write to 'log.txt' : [Errno 13] Permission denied: 'log.txt'
+2026-06-17 22:43:26 - root - ERROR - Failed to read 'log.json' : [Errno 2] No such file or directory: 'log.json'
