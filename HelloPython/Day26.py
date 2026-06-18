@@ -49,4 +49,3 @@ def safe_write(filename, data):
 
 safe_write("write.txt", safe_read("library.json"))   #successful run
 #safe_write("write.txt", safe_read("test.json"))  #Checking exception
-
