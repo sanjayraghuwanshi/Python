@@ -1,0 +1,17 @@
+=====================================
+        EXPENSE SUMMARY REPORT       
+Generated on: 2026-06-21 00:57:12
+=====================================
+
+Total Amount Spent : ₹39160
+Total Transactions : 5
+Average Per Expense: ₹7832.0
+
+--- Breakdown By Category ---
+* Grocery: ₹160
+* Fitness: ₹5000
+* Rent: ₹30000
+* Shopping: ₹4000
+
+=====================================
+End of Report
