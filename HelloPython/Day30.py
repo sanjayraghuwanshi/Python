@@ -30,18 +30,17 @@ class Car:
     def is_moving(self) -> bool:
         return self.speed > 0
 
-#    def __str__(self):
-#        return f"{self.make} {self.model} {self.year} {self.color} {self.speed} km/h"
-
     def __repr__(self):
-        return f"Car -> {self.make}, {self.model}, {self.year}, {self.color}"
+        return f"Car({self.make}, {self.model}, {self.year}, {self.color})"
+    def __str__(self):
+        return f"{self.make} {self.model} {self.year} {self.color} {self.speed} km/h"
 
 # Create 2 car objects
 car1 = Car("Honda", "Camry", 2024, "Silver")
 car2 = Car("Tata", "Mustang", 2023, "Red")
 
-print(car1)
-print(car2)
+print(str(car1))
+print(repr(car2))
 
 """
 Create a class Book with title, author, pages. Add __str__ and __repr__.
@@ -54,11 +53,10 @@ class Book:
         self.author = author
         self.pages = pages
 
+    def __repr__(self):
+        return f"Book({self.title}, {self.author}, {self.pages})"
     def __str__(self):
         return f"Title: {self.title}, Author: {self.author}, Pages: {self.pages}"
-    def __repr__(self):
-        return f"Title: {self.title}, Author: {self.author}, Pages: {self.pages}"
-
     def __len__(self):
         return self.pages
 
@@ -67,8 +65,6 @@ book2 = Book("Pride and Prejudice", "Jane Austen", 225)
 book3 = Book("Moby-Dick", "Herman Melville", 362)
 
 print(book1)
-print(book2)
-print(book3)
 print(f"Number of pages in book1 : {len(book1)}")
 print(f"Number of pages in book2 : {len(book2)}")
 print(f"Number of pages in book3 : {len(book3)}")
