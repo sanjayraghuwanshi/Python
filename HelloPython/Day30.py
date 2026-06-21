@@ -1,5 +1,5 @@
 """
-The __str__ and __repr__ Methods
+Day 30 — The __str__ and __repr__ Methods
 Problem:
 
 Add __str__ to your Car class so print(car) gives a nice readable output.
