@@ -2,6 +2,7 @@
 Day 34 — Encapsulation & Properties
 ###################################
 Problem: Create a class BankAccount with:
+###################################
 
 Private attribute __balance (starts at 0).
 deposit(amount) — validates amount > 0.
