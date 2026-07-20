@@ -1,0 +1,11 @@
+{
+    "books": {
+        "12345": {
+            "title": "To Kill A Mockingbird",
+            "author": "Author",
+            "isbn": "12345",
+            "available": true
+        }
+    },
+    "members": {}
+}
